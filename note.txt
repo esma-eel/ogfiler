@@ -1,0 +1,16 @@
+
+run program
+which folder do you want to organize ?
+user enters path
+which type of files you want to organize ?
+[documents, videos, compressed, pictures, softwares, music]
+enter name of destination folders:
+for cat1 --> 
+for cat 2 -->
+for cat 3 -->
+...
+do you want to start ?
+yes
+organizing files ...
+good luck!
+exit
